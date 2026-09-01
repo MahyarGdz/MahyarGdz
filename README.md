@@ -5,7 +5,6 @@ I’m Mahyar, a backend developer specializing in Node.js.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahyar-goudarzi-6b70422a5/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MahyarGdz) 
 
 ## Connect:
-[<img align="left" alt="Telegram" src="https://img.shields.io/badge/Telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/Mgdz19)
 [<img align="left" alt="Outlook" src="https://img.shields.io/badge/Outlook-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:mahyar.goudarzi@outlook.com)
 
 <br />
